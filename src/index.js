@@ -17,7 +17,7 @@ import './index.css';
 //   }
 // });
 
-var button = document.querySelector('button');
+// var button = document.querySelector('button');
 
 /*
 The scan operator works just like reduce for arrays. It takes a value which is exposed to a callback. 
